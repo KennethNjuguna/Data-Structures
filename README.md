@@ -27,3 +27,19 @@ This is a Respo on Data Structures.
 <p><ul><li><b>Built-in Data Type</b></li>
        <li><b>Derived Data Type</b></li>
 </ul></p>
+
+<p><b>Built-in Data Type</b></p>
+<p>Those data types for which a language has built-in support are known as Built-in Data types. For example, most of the languages provide the following built-in data types.</p>
+<p><ul><li>Integers</li>
+       <li>Boolean (true, false)</li>
+       <li>Floating (Decimal numbers)</li>
+       <li>Character and Strings</li></ul>
+</p>
+
+<p><b>Derived Data Type</b></p>
+<p>Those data types which are implementation independent as they can be implemented in one or the other way are known as derived data types. These data types are normally built by the combination of primary or built-in data types and associated operations on them</p>
+<p><ul><li>List</li>
+       <li>Array</li>
+       <li>Stack</li>
+       <li>Queue</li></ul>
+</p>
