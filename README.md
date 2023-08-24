@@ -9,7 +9,9 @@ This is a Respo on Data Structures.
 <p><b>A data structure</b> is a storage that is used to store and organize data. It is a way of arranging data on a computer so that it can be accessed and updated efficiently.A data structure is not only used for organizing the data. It is also used for processing, retrieving, and storing data. There are different basic and advanced types of data structures that are used in almost every program or software system that has been developed. So we must have good knowledge about data structures. </p>
 
 <p><b>Classification of Data Structure: </b></p>
+
 ![image](https://github.com/KennethNjuguna/Data-Structures/assets/97665556/1426084d-bc2e-4994-bb5b-929d90227dd9)
+
 
 <p><b>Data Definition.</b></p>
 <p><b>Data Definition defines a particular data with the following characteristics.</b></p>
