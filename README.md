@@ -71,7 +71,7 @@ An example of this data structure is an array.
 
 <p><b>Why linked list data structure needed?</b></p>
 Here are a few advantages of a linked list that is 
-<p><ul><li><b>Ease of Insertion/Deletion:</b> The insertiolisted below, it will help you understand why it is necessary to know.
+<p><ul><li><b>Ease of Insertion/Deletion:</b> The insertiolisted below, it will help you understand why it is necessary to know.</li></p>
 
 <p><ul><li><b>Dynamic Data structure:</b> The size of memory can be allocated or de-allocated at run time based on the operation insertion or deletion.</li></p>
 <p><ul><li><b>Ease of Insertion/Deletion:</b>The insertion and deletion of elements are simpler than arrays since no elements need to be shifted after insertion and deletion, Just the address needed to be updated.</li></p>
