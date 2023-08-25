@@ -72,10 +72,10 @@ An example of this data structure is an array.
 <p><b>Why linked list data structure needed?</b></p>
 <p>Here are a few advantages of a linked list that is listed below, it will help you understand why it is necessary to know.</p>
 
-<p><li>Dynamic Data structure: The size of memory can be allocated or de-allocated at run time based on the operation insertion or deletion.</li>
-Ease of Insertion/Deletion: The insertion and deletion of elements are simpler than arrays since no elements need to be shifted after insertion and deletion, Just the address needed to be updated.
-Efficient Memory Utilization: As we know Linked List is a dynamic data structure the size increases or decreases as per the requirement so this avoids the wastage of memory. 
-Implementation: Various advanced data structures can be implemented using a linked list like a stack, queue, graph, hash maps, etc.
+<p><li><b>Dynamic Data structure:</b> The size of memory can be allocated or de-allocated at run time based on the operation insertion or deletion.</li></p>
+<p><li><b>Ease of Insertion/Deletion:</b> The insertion and deletion of elements are simpler than arrays since no elements need to be shifted after insertion and deletion, Just the address needed to be updated.</li></p>
+<p><li><b>Efficient Memory Utilization: As we know Linked List is a dynamic data structure the size increases or decreases as per the requirement so this avoids the wastage of memory.</li></p> 
+<p><li><b>Implementation: Various advanced data structures can be implemented using a linked list like a stack, queue, graph, hash maps, etc.</li></p>
 
 <h3>Types of Linked Lists.</h3>
 There are mainly three types of linked lists.
