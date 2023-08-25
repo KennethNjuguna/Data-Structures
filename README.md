@@ -57,3 +57,29 @@ An example of this data structure is an array.
        <li>Stack</li>
        <li>Queue</li></ul>
 </p>
+
+<p><h1>Linked List:</h1></p>
+<p><b>Singly Linked List:</b></p>
+<p>Linked List is a linear data structure, in which elements are not stored at a contiguous location, rather they are linked using pointers. Linked List forms a series of connected nodes, where each node stores the data and the address of the next node.</p>
+
+![image](https://github.com/KennethNjuguna/Data-Structures/assets/97665556/a2097754-caa8-4059-89ce-238ab21697d0)
+
+<p><b>Node Structure:</b> A node in a linked list typically consists of two components:</p>
+<p><b>Data: It holds the actual value or data associated with the node.</b></p>
+<p><b>Next Pointer:</b> It stores the memory address (reference) of the next node in the sequence.</p>
+<p><b>Head and Tail: The linked list is accessed through the head node, which points to the first node in the list. The last node in the list points to NULL or nullptr, indicating the end of the list. This node is known as the tail node.</p></b>
+
+<p><b>Why linked list data structure needed?</b></p>
+Here are a few advantages of a linked list that is 
+<p><ul><li><b>Ease of Insertion/Deletion:</b> The insertiolisted below, it will help you understand why it is necessary to know.
+
+<p><ul><li><b>Dynamic Data structure:</b> The size of memory can be allocated or de-allocated at run time based on the operation insertion or deletion.</li></p>n and deletion of elements are simpler than arrays since no elements need to be shifted after insertion and deletion, Just the address needed to be updated.</li></p>
+<p><ul><li><b>Efficient Memory Utilization:</b>  As we know Linked List is a dynamic data structure the size increases or decreases as per the requirement so this avoids the wastage of memory.</li></p>
+<p><ul><li><b>Implementation:</b>  Various advanced data structures can be implemented using a linked list like a stack, queue, graph, hash maps, etc.</li></p></ul>
+
+<h3>Types of Linked Lists.</h3>
+There are mainly three types of linked lists.
+<ul><li>Single-linked list.</li>
+     <li>Double linked list.</li>
+     <li>Circular linked list.</li></ul>
+
