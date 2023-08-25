@@ -76,13 +76,32 @@ An example of this data structure is an array.
 
 <p><li><b>Ease of Insertion/Deletion:</b> The insertion and deletion of elements are simpler than arrays since no elements need to be shifted after insertion and deletion, Just the address needed to be updated.</li></p>
 
-<p><li><b>Efficient Memory Utilization: As we know Linked List is a dynamic data structure the size increases or decreases as per the requirement so this avoids the wastage of memory.</li></p> 
+<p><li><b>Efficient Memory Utilization:</b> As we know Linked List is a dynamic data structure the size increases or decreases as per the requirement so this avoids the wastage of memory.</li></p> 
        
-<p><li><b>Implementation: Various advanced data structures can be implemented using a linked list like a stack, queue, graph, hash maps, etc.</li></p>
+<p><li><b>Implementation:</b> Various advanced data structures can be implemented using a linked list like a stack, queue, graph, hash maps, etc.</li></p>
 
 <h3>Types of Linked Lists.</h3>
 There are mainly three types of linked lists.
 <ul><li>Single-linked list.</li>
      <li>Double linked list.</li>
      <li>Circular linked list.</li></ul>
+
+<h3><li>1. Single-linked list:</li></h3>
+<p>In a singly linked list, each node contains a reference to the next node in the sequence. Traversing a singly linked list is done in a forward direction.</p>
+
+![image](https://github.com/KennethNjuguna/Data-Structures/assets/97665556/aa5d0fac-116f-4832-8241-f0603aedca47)
+
+<h3><li>2. Double-linked list:</li></h3>
+<p>In a doubly linked list, each node contains references to both the next and previous nodes. This allows for traversal in both forward and backward directions, but it requires additional memory for the backward reference.</p>
+
+![image](https://github.com/KennethNjuguna/Data-Structures/assets/97665556/65b1c89a-46c3-4bb2-b7ce-06773a984d7d)
+
+<h3><li>2. Circular linked list:</li></h3>
+<p> In a circular linked list, the last node points back to the head node, creating a circular structure. It can be either singly or doubly linked.</p>
+
+![image](https://github.com/KennethNjuguna/Data-Structures/assets/97665556/ec7f5fd4-b23e-41c3-a765-c90f853d6865)
+
+
+
+
 
