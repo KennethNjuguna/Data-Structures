@@ -102,6 +102,19 @@ There are mainly three types of linked lists.
 ![image](https://github.com/KennethNjuguna/Data-Structures/assets/97665556/ec7f5fd4-b23e-41c3-a765-c90f853d6865)
 
 
+<h3>Arrays</h3>
+<p><b>Array</b> is a type of linear data structure that is defined as a collection of elements with same or different data types. They exist in both single dimension and multiple dimensions. These data structures come into picture when there is a necessity to store multiple elements of similar nature together at one place.</p>
+
+![image](https://github.com/KennethNjuguna/Data-Structures/assets/97665556/3d1e3ee2-a710-4c84-8cc6-c82c754caa9f)
+
+<p>The difference between an array index and a memory address is that the array index acts like a key value to label the elements in the array. However, a memory address is the starting address of free memory available.</p>
+
+<p>Following are the important terms to understand the concept of Array.</p>
+<ul><li><b>Element −</b> Each item stored in an array is called an element.</li>
+    <li><b>Index −</b> Each location of an element in an array has a numerical index, which is used to identify the element.</li>
+</ul>
+
+
 
 
 
